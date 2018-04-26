@@ -7,7 +7,6 @@ hidenInHeader: true
 
 <div class="first-screen mdl-grid">
 <div class="max-width-container mdl-grid">
-<div class="mdl-cell mdl-cell--6-col mdl-cell--middle mdl-cell--12-col-tablet mdl-cell--12-col-phone" markdown="1">
 
 ## euBusinessGraph Marketplace and Services
 
@@ -17,16 +16,6 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 * Integrate, host, and sustain a scalable business graph data marketplace, with capabilities for data cleaning, enrichment, integration, interlinking, publication and hosting; 
 * Serve as an entry point for company-related data discovery, exploration and analytics; and 
 * Grow an ecosystem of 3rd party applications and company-related data services.
-
-</div>
-</div>
-</div>
-
-<div id="howItWorks" class="second-screen mdl-grid">
-<div class="max-width-container mdl-grid">
-<div class="mdl-cell mdl-cell--12-col mdl-cell--middle">
-<div class="mdl-grid white-space-top white-space-bottom">
-<div class="mdl-cell mdl-cell--5-col " markdown="1">
 
 ### euBusinessGraph Platform Components
 
@@ -40,9 +29,6 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 * Graph Based Analytics
 * Marketplace on the Cognitive Cloud
 
-</div>
-</div>
-</div>
 </div>
 </div>
 
