@@ -387,14 +387,6 @@ $whiteSpace: 50px;
     &.mdl-navigation__link {
         padding-left: 65px;
     }
-
-    &:after {
-        content: "beta";
-        color: $dapaas-color-accent;
-        position: relative;
-        bottom: 9px;
-        font-size: 16px;
-    }
 }
 
 /*.mdl-layout__header-row {
