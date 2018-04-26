@@ -15,5 +15,5 @@ This report describes the initial architecture of the business graph provisionin
 * Grow an ecosystem of 3rd party applications and company-related data services.
 
 The focus of this document is on the euBusinessGraph Marketplace platform and provides: 
-* An overview of the euBusinessGraph Marketplace platform, the relevant stakeholders of the platform, and their requirements for the capabilities of the platform;</li>
-* A preliminary design and architecture of the platform in terms of the core components, and a set of APIs that will guide the development of the platform in the next phase.</li>
+* An overview of the euBusinessGraph Marketplace platform, the relevant stakeholders of the platform, and their requirements for the capabilities of the platform;
+* A preliminary design and architecture of the platform in terms of the core components, and a set of APIs that will guide the development of the platform in the next phase.
