@@ -5,7 +5,6 @@ permalink: /
 hidenInHeader: true
 ---
 
-<div class="first-screen mdl-grid">
 <div class="max-width-container mdl-grid">
 
 ## euBusinessGraph Marketplace and Services
@@ -19,7 +18,7 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 
 ### euBusinessGraph Platform Components
 
-* Grafterizer 2.0
+* <a href="/grafterizer">Grafterizer 2.0</a>
 * ABSTAT
 * Assisted Semantic Interpretation and Annotation of tables (ASIA)
 * DataGraft
@@ -29,7 +28,6 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 * Graph Based Analytics
 * Marketplace on the Cognitive Cloud
 
-</div>
 </div>
 
 {% include footer.html %}
