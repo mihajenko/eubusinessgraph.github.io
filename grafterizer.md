@@ -7,16 +7,10 @@ hidenInHeader: true
 
 ### Fact sheet
 
-
-
 *Functionality* | In euBusinessGraph we have extended the Grafterizer framework with interactive data cleaning and transformation functionality, and visual data profiling.
-
 *API* | <a href="https://datagraft.github.io/datagraft-API/dist/index.html?url=https://datagraft.github.io/datagraft-API/swagger.yaml">https://datagraft.github.io/datagraft-API/dist/index.html?url=https://datagraft.github.io/datagraft-API/swagger.yaml</a>
-
 *Software license* | <a href="https://www.eclipse.org/legal/epl-v10.html">Eclipse Public License – v 1.0</a>
-
 *Source repository* | <a href="https://github.com/datagraft/grafterizer-2.0">https://github.com/datagraft/grafterizer-2.0</a>
-
 *Contact person* | ... 
 
 ### Functionality
