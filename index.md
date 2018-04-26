@@ -6,9 +6,8 @@ hidenInHeader: true
 ---
 
 <div class="screenshot"><img alt="" src="/static/images/platform.png"></div>
-<br>
 
-The euBusinessGraph Marketplace comprises a set of tools depicted in the figure above. For each tool there is a fact sheet that contains a short description of the functionality, links to API documentation, installation guide, user guide, software license, source repository and contact person.
+<br>The euBusinessGraph Marketplace comprises a set of tools depicted in the figure above. For each tool there is a link to a page that contains a short description of the functionality and links to installation guide, user guide, API documentation, software license, source code repository and contact person.
 
 * <a href="/grafterizer">Grafterizer 2.0</a> - Simplifies the data cleaning and transformation processes for onboarding business graph data.
 * ABSTAT - Provide necessary RDF-isation services for data transformation, enrichment and interlinking and metadata generation processes so that the business graph data can be published as Linked Data.
