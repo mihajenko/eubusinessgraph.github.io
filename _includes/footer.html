@@ -1,0 +1,25 @@
+<footer class="last-screen">
+
+<div class="mdl-grid">
+<div class="footer-navigation mdl-grid mdl-cell--6-col">
+<nav class="mdl-navigation">
+    {% assign pages = site.pages | where: "hidenInHeader",nil | sort:"weight"  %}
+    {% for page in pages %}
+    {% if page.title %}
+    <a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl}}">{{ page.title}}</a>
+    {% endif %}
+    {% endfor %}
+</nav>
+</div>
+<div class="footer-navigation mdl-grid mdl-cell--6-col">
+    <div class="mdl-layout-spacer"></div>
+    <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="/privacy-policy/">Privacy Policy</a>
+        <a class="mdl-navigation__link" href="/legal-notice/">Legal Notice</a>
+    </nav>
+</div>
+</div>
+
+<p class="legal-footer">The euBusinessGraph Marketplace and Services is a result of the <a href="http://eubusinessgraph.eu/">euBusinessGraph</a> project, co-funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 732003.</p>
+
+</footer>
