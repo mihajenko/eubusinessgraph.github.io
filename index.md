@@ -18,6 +18,10 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 * Serve as an entry point for company-related data discovery, exploration and analytics; and 
 * Grow an ecosystem of 3rd party applications and company-related data services.
 
+</div>
+</div>
+</div>
+
 <div id="howItWorks" class="second-screen mdl-grid">
 <div class="max-width-container mdl-grid">
 <div class="mdl-cell mdl-cell--12-col mdl-cell--middle">
@@ -35,5 +39,11 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 * Event Registry
 * Graph Based Analytics
 * Marketplace on the Cognitive Cloud
+
+</div>
+</div>
+</div>
+</div>
+</div>
 
 {% include footer.html %}
