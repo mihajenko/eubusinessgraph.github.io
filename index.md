@@ -1,5 +1,5 @@
 ---
-layout: mainpage
+layout: page
 title: euBusinessGraph Marketplace and Services
 permalink: /
 hidenInHeader: true
