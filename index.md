@@ -5,9 +5,9 @@ permalink: /
 hidenInHeader: true
 ---
 
+The euBusinessGraph Marketplace comprises a set of tools depicted in the figure below. For each tool there is a fact sheet that contains a short description of the functionality, links to API documentation, installation guide, user guide, software license, source repository and contact person.
+
 <div class="screenshot"><img alt="" src="/static/images/platform.png"></div>
-<p>
-The euBusinessGraph Marketplace comprises a set of tools depicted in the figure above. For each tool there is a fact sheet that contains a short description of the functionality, links to API documentation, installation guide, user guide, software license, source repository and contact person.
 
 #### Data Preparation Services
 * <a href="/grafterizer">Grafterizer 2.0</a> - To simplify data cleaning and transformation processes, and ensure the availability of services to help with the generation of the business graph data.
