@@ -5,8 +5,6 @@ permalink: /
 hidenInHeader: true
 ---
 
-<div class="max-width-container mdl-grid">
-
 ## euBusinessGraph Marketplace and Services
 
 The main goal of the euBusinessGraph project is to create the foundations of a European cross-border and cross-lingual business graph through aggregating, linking, and provisioning (open and non-open) high-quality company-related data, thereby demonstrating innovation across sectors where company-related data value chains are relevant. This is achieved by leveraging the power of technologies such as Data-as-a-Service and Linked Data.
@@ -27,7 +25,3 @@ The project will deliver a technology platform, the euBusinessGraph Marketplace,
 * Event Registry
 * Graph Based Analytics
 * Marketplace on the Cognitive Cloud
-
-</div>
-
-{% include footer.html %}
