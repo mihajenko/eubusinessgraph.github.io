@@ -5,6 +5,9 @@ permalink: /asia/
 hidenInHeader: true
 ---
 
+<div class="screenshot"><img alt="" src="/static/files/asia/asia_screenshot.png"></div>
+<br>
+
 #### Functionality
 Given a table, ASIA provides an interface that guides the user through the annotation task using a column-wise approach. This approach allows users to define annotations for each column in such a way that the annotations encode enough information to automatically generate the transformations required for RDF-ization. 
 

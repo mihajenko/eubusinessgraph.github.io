@@ -5,6 +5,9 @@ permalink: /grafterizer/
 hidenInHeader: true
 ---
 
+<div class="screenshot"><img alt="" src="/static/files/grafterizer/grafterizer_screenshot.png"></div>
+<br>
+
 #### Functionality
 In euBusinessGraph we have extended the Grafterizer framework with interactive data cleaning and transformation functionality, and visual data profiling. The implementation provides functionality for:
 

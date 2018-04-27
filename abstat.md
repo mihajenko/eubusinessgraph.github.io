@@ -5,6 +5,9 @@ permalink: /abstat/
 hidenInHeader: true
 ---
 
+<div class="screenshot"><img alt="" src="/static/files/abstat/abstat_screenshot.png"></div>
+<br>
+
 #### Functionality
 ABSTAT (Linked Data Summaries with ABstraction and STATistics) is a framework that computes and provides access to synthetic descriptions of RDF data sets. These descriptions can be viewed as profiles of RDF data sets and are called summaries in ABSTAT. 
 
