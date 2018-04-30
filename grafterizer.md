@@ -14,6 +14,9 @@ In euBusinessGraph we have extended the Grafterizer framework with interactive d
 1.	Suggestion-based data cleaning and transformation
 2.	Visual data profiling
 
+#### Usage in euBusinessGraph
+Grafterizer is used together with <a href="/asia">ASIA</a> to onboard the company data in the project, i.e. mapping the company data to the <a href="https://github.com/euBusinessGraph/eubg-data">euBusinessGraph company data model</a> in order to publish the data as a knowledge graph in <a href="/graphdb">GraphDB</a>.
+
 #### Installation guide
 <a href="https://github.com/datagraft/grafterizer-2.0">https://github.com/datagraft/grafterizer-2.0</a>
 

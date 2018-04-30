@@ -11,6 +11,9 @@ hidenInHeader: true
 #### Functionality
 Given a table, ASIA provides an interface that guides the user through the annotation task using a column-wise approach. This approach allows users to define annotations for each column in such a way that the annotations encode enough information to automatically generate the transformations required for RDF-ization. 
 
+#### Usage in euBusinessGraph
+ASIA provides mapping suggestions that makes it easier for new data publishers to map their data to the <a href="https://github.com/euBusinessGraph/eubg-data">euBusinessGraph company data model</a>.
+
 #### Installation guide
 <a href="https://bitbucket.org/disco_unimib/asia">https://bitbucket.org/disco_unimib/asia</a>
 
