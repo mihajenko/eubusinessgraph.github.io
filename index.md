@@ -14,7 +14,7 @@ hidenInHeader: true
 * <a href="/asia">ASIA</a> - semantic table enrichment tool (integrated into Grafterizer 2.0) which provides Assisted Semantic Interpretation and Annotation of tables (ASIA).
 * <a href="/datagraft">DataGraft</a> - framework for data onboarding and provisioning.
 * <a href="/graphdb">GraphDB on the Cognitive Cloud</a> - provides a reliable hosting service for the business graph.
-* Wikifier - A set of analytics services on top of the business graph data. These services are meant to be generic and customisable, and so will be reused in more than one business case.
-* Event Registry
+* <a href="/wikifier">Wikifier</a> - semantic multilingual annotation service will be based on Wikifier.
+* <a href="/eventregistry">Event Registry</a> - system that can analyze news articles and identify in them mentioned world events.
 * Graph Based Analytics
 * Marketplace on the Cognitive Cloud - Availability of a data brokerage system in the form of a data marketplace where data that are part of the business graph can be provisioned and accessed. 
