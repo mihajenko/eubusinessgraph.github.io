@@ -16,5 +16,5 @@ hidenInHeader: true
 * <a href="/graphdb">GraphDB on the Cognitive Cloud</a> - provides a reliable hosting service for the business graph.
 * <a href="/wikifier">Wikifier</a> - semantic multilingual annotation service will be based on Wikifier.
 * <a href="/eventregistry">Event Registry</a> - system that can analyze news articles and identify in them mentioned world events.
-* Graph Based Analytics
-* Marketplace on the Cognitive Cloud - Availability of a data brokerage system in the form of a data marketplace where data that are part of the business graph can be provisioned and accessed. 
+* <a href="/graphanalytics">Graph Based Analytics</a> - relation extraction service operating on local data and discovering the relations between entities (companies, people and products/brands).
+* <a href="/marketplace">Marketplace on the Cognitive Cloud</a> - marketplace where company data that are part of the business graph can be provisioned and accessed. 
