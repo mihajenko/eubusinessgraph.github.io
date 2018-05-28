@@ -25,13 +25,14 @@ Online service to be developed and deployed on JSI servers.
 Users are able to access the relation services through the RESTful API. User registration to obtain an API access key will be required shortly.
 
 #### API documentation
-<a href="https://github.com/JSI-EuBusinessGraph/jsi-graph-based-analytics-api">https://github.com/JSI-EuBusinessGraph/jsi-graph-based-analytics-api</a>
+* API repository: <a href="https://github.com/JSI-EuBusinessGraph/jsi-graph-based-analytics-api">https://github.com/JSI-EuBusinessGraph/jsi-graph-based-analytics-api</a>
+* API reference: <a href="https://jsi-eubusinessgraph.github.io/jsi-graph-based-analytics-api">https://jsi-eubusinessgraph.github.io/jsi-graph-based-analytics-api</a>
 
 #### Software license
 The software license will be defined at a later time.
 
 #### Source code repository
-Code is written in C, Python and Java, and stored in local SCM repositories.
+N/A
 
 #### Contact person
 miha.jenko [at] ijs [dot] si
