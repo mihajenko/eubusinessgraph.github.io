@@ -5,7 +5,7 @@ permalink: /wikifier/
 hidenInHeader: true
 ---
 
-<div class="screenshot"><video src="/static/files/wikifier/wikifier_demo.mp4" width="560" height="315" preload="none" controls></video></div>
+<div class="screenshot-video-border"><video src="/static/files/wikifier/wikifier_demo.mp4" width="640" height="362" preload="none" controls></video></div>
 <br>
 
 #### Functionality

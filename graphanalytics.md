@@ -5,7 +5,7 @@ permalink: /graphanalytics/
 hidenInHeader: true
 ---
 
-<div class="screenshot"><img alt="" src="/static/files/graphanalytics/graphanalytics_screenshot.png"></div>
+<div class="screenshot screenshot-video-border"><img alt="GraphBasedAnalytics Service" src="/static/files/graphanalytics/graphanalytics_screenshot.png"></div>
 <br>
 
 #### Functionality
@@ -19,7 +19,7 @@ The aim of graph-based analytics services is to cover:
 The relation extraction service is operating on local data and discovering the relations between entities (companies, people and products/brands).
 
 #### Installation guide
-Online service to be developed and deployed on JSI servers.
+Online demo service: <a href="http://gba.ijs.si">http://gba.ijs.si</a>.
 
 #### User guide
 Users are able to access the relation services through the RESTful API. User registration to obtain an API access key will be required shortly.

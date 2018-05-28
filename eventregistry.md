@@ -5,7 +5,7 @@ permalink: /eventregistry/
 hidenInHeader: true
 ---
 
-<div class="screenshot"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZEWuFortd58" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
+<div class="screenshot-video-border"><iframe width="640" height="362" src="https://www.youtube.com/embed/ZEWuFortd58" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
 <br>
 
 #### Functionality
